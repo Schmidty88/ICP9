@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import xlrd
-
+import pandas as pd
 
 DATA_FILE = 'data/USA_Housing.xls'
 # Avg. Area House Age vs Price
